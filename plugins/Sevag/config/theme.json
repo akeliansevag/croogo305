@@ -1,0 +1,18 @@
+{
+  "name" : "Sevag",
+  "description" : "Sevag theme for Croogo",
+  "screenshot" : "",
+
+  "author" : "Sevag Akelian",
+  "authorEmail" : "akelian.sevag@gmail.com",
+  "authorUrl" : "http://sevagakelian.com",
+
+  "menus" : [
+    "main",
+    "footer"
+    ],
+
+  "regions" : [
+    "right"
+    ]
+}
